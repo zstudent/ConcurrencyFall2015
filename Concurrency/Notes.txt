@@ -1,0 +1,3 @@
+Brian Goetz "Java Concurrency in Practice"
+
+https://github.com/zstudent/Concurrency
