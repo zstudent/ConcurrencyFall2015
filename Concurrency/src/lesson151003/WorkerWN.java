@@ -1,7 +1,6 @@
 package lesson151003;
 
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 
 import utils.Utils;
